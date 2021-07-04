@@ -45,11 +45,18 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .box-shadow{
-    box-shadow: 10px 10px gray;
+    box-shadow: 10px 10px 20px gray;
     width: 40%;
-    padding-left: 5%;
-    padding-right: 5%;
-    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    
+    margin-bottom: 100px;
 }
 
