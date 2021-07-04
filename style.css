@@ -58,5 +58,16 @@ h2{
     padding-left: 10px;
     
     margin-bottom: 100px;
+    border-radius: 10px;
+}
+#border-erea{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, rgb(248, 143, 4));
+    border-image-slice: 1;
+}
+#new-border-area{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,pink);
+    border-image-slice: 1;
 }
 
