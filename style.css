@@ -8,7 +8,7 @@ h1{
 .samp{
     color: orange;
 }
-section{
+.flaxible-display{
     display: flex;
     
 }
